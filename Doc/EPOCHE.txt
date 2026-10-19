@@ -1,0 +1,117 @@
+------------------------------   EPOCH 1   ------------------------------
+
+
+Total batches: 2909 
+
+Epoch [1/1]
+Gender Loss: 0.2708
+Bag Loss: 0.4198
+Hat Loss: 0.1672
+
+Total batches: 381 
+
+GENDER  ---  Loss: 0.2632, Accuracy: 0.8832, F1-score: 0.8167
+BAG  ---  Loss: 0.3555, Accuracy: 0.8548, F1-score: 0.6077
+HAT  ---  Loss: 0.1013, Accuracy: 0.9554, F1-score: 0.7123
+
+
+------------------------------   EPOCH 2   ------------------------------
+
+
+Total batches: 2909 
+
+Epoch [1/1]
+Gender Loss: 0.1839
+Bag Loss: 0.3396
+Hat Loss: 0.1237
+
+Total batches: 381 
+
+GENDER  ---  Loss: 0.2150, Accuracy: 0.9159, F1-score: 0.8530
+BAG  ---  Loss: 0.3098, Accuracy: 0.8795, F1-score: 0.6781
+HAT  ---  Loss: 0.0926, Accuracy: 0.9605, F1-score: 0.7505
+
+
+------------------------------   EPOCH 3   ------------------------------
+
+
+Total batches: 2909 
+
+Epoch [1/1]
+Gender Loss: 0.1479
+Bag Loss: 0.2976
+Hat Loss: 0.1074
+
+Total batches: 381 
+
+GENDER  ---  Loss: 0.1781, Accuracy: 0.9271, F1-score: 0.8726
+BAG  ---  Loss: 0.2767, Accuracy: 0.8912, F1-score: 0.6983
+HAT  ---  Loss: 0.0844, Accuracy: 0.9683, F1-score: 0.8137
+
+
+------------------------------   EPOCH 4   ------------------------------
+
+
+Total batches: 2909 
+
+Epoch [1/1]
+Gender Loss: 0.1222
+Bag Loss: 0.2587
+Hat Loss: 0.0929
+
+Total batches: 381 
+
+GENDER  ---  Loss: 0.2152, Accuracy: 0.9116, F1-score: 0.8556
+BAG  ---  Loss: 0.3008, Accuracy: 0.8864, F1-score: 0.7163
+HAT  ---  Loss: 0.1030, Accuracy: 0.9545, F1-score: 0.7148
+
+
+------------------------------   EPOCH 5   ------------------------------
+
+
+Total batches: 2909 
+
+Epoch [1/1]
+Gender Loss: 0.0982
+Bag Loss: 0.2165
+Hat Loss: 0.0776
+
+Total batches: 381 
+
+GENDER  ---  Loss: 0.1823, Accuracy: 0.9322, F1-score: 0.8878
+BAG  ---  Loss: 0.3058, Accuracy: 0.8900, F1-score: 0.6894
+HAT  ---  Loss: 0.0779, Accuracy: 0.9687, F1-score: 0.8137
+
+
+------------------------------   EPOCH 6   ------------------------------
+
+
+Total batches: 2909 
+
+Epoch [1/1]
+Gender Loss: 0.0764
+Bag Loss: 0.1689
+Hat Loss: 0.0641
+
+Total batches: 381 
+
+GENDER  ---  Loss: 0.1792, Accuracy: 0.9370, F1-score: 0.8905
+BAG  ---  Loss: 0.3182, Accuracy: 0.8853, F1-score: 0.7083
+HAT  ---  Loss: 0.0811, Accuracy: 0.9702, F1-score: 0.8250
+
+
+-----------------------------   EPOCH 7   ------------------------------
+
+
+Total batches: 2909 
+
+Epoch [1/1]
+Gender Loss: 0.0595
+Bag Loss: 0.1206
+Hat Loss: 0.0504
+
+Total batches: 381 
+
+GENDER  ---  Loss: 0.1903, Accuracy: 0.9357, F1-score: 0.8864
+BAG  ---  Loss: 0.3669, Accuracy: 0.8905, F1-score: 0.7144
+HAT  ---  Loss: 0.1042, Accuracy: 0.9633, F1-score: 0.7718

@@ -1,0 +1,53 @@
+{
+  "people": [
+    {
+      "id": 3,
+      "gender": "female",
+      "hat": false,
+      "bag": false,
+      "trajectory": []
+    },
+    {
+      "id": 2,
+      "gender": "male",
+      "hat": true,
+      "bag": false,
+      "trajectory": []
+    },
+    {
+      "id": 1,
+      "gender": "male",
+      "hat": false,
+      "bag": true,
+      "trajectory": []
+    },
+    {
+      "id": 4,
+      "gender": "male",
+      "hat": false,
+      "bag": false,
+      "trajectory": []
+    },
+    {
+      "id": 5,
+      "gender": "male",
+      "hat": false,
+      "bag": false,
+      "trajectory": []
+    },
+    {
+      "id": 6,
+      "gender": "male",
+      "hat": false,
+      "bag": false,
+      "trajectory": []
+    },
+    {
+      "id": 7,
+      "gender": "male",
+      "hat": false,
+      "bag": true,
+      "trajectory": []
+    }
+  ]
+}

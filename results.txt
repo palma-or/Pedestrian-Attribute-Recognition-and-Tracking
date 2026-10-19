@@ -1,0 +1,153 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "gender": "male",
+      "hat": true,
+      "bag": true,
+      "trajectory": [
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": 3,
+      "gender": "male",
+      "hat": false,
+      "bag": false,
+      "trajectory": [
+        2
+      ]
+    },
+    {
+      "id": 4,
+      "gender": "female",
+      "hat": false,
+      "bag": true,
+      "trajectory": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "gender": "male",
+      "hat": true,
+      "bag": true,
+      "trajectory": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": 5,
+      "gender": "male",
+      "hat": true,
+      "bag": true,
+      "trajectory": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": 6,
+      "gender": "male",
+      "hat": false,
+      "bag": true,
+      "trajectory": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": 7,
+      "gender": "male",
+      "hat": true,
+      "bag": true,
+      "trajectory": [
+        2,
+        1
+      ]
+    },
+    {
+      "id": 8,
+      "gender": "male",
+      "hat": false,
+      "bag": true,
+      "trajectory": [
+        2,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": 9,
+      "gender": "male",
+      "hat": true,
+      "bag": true,
+      "trajectory": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": 10,
+      "gender": "male",
+      "hat": false,
+      "bag": false,
+      "trajectory": [
+        2,
+        1,
+        2,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": 11,
+      "gender": "male",
+      "hat": false,
+      "bag": false,
+      "trajectory": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": 12,
+      "gender": "male",
+      "hat": false,
+      "bag": true,
+      "trajectory": [
+        2,
+        1,
+        1,
+        1
+      ]
+    }
+  ]
+}
